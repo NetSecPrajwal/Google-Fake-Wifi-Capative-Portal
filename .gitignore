@@ -1,32 +1,90 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Arduino IDE specific
+*.elf
+*.bin
+*.hex
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
+*.a
+*.d
 *.so
 *.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
 *.lib
+*.exp
+*.map
+*.pdb
+*.lss
+*.sym
+*.gdb
+*.gcc
+*.gch
+*.gmo
+*.gni
+*.gradle
+*.class
+*.log
+*.tmp
+*.swp
+*.swo
 
-# Executables
-*.exe
-*.out
-*.app
+# Build output
+/build/
+*.pio/
+*.pioenvs/
+*.pio/build/
+*.pio/libdeps/
+
+# User-specific files
+*.prefs
+*.local
+
+# PlatformIO files
+.platformio/
+.pio/
+.pioenvs/
+
+# Arduino files
+*.ino.*
+*.arduinoconf.json
+*.arduinocache/
+*.arduino/
+*.build/
+*.vscode/
+.vscode/
+
+# Serial logs
+*.log
+*.trace
+
+# Exclude libraries and dependencies
+/libraries/
+*.lib
+*.a
+*.dylib
+*.so
+
+# IDE folders
+/.idea/
+/*.pro.user
+*.cproject
+*.project
+*.suo
+*.user
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.tmp
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
