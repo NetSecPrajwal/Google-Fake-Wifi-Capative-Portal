@@ -52,4 +52,4 @@ Prajwal Gaikwad
 
 ## Acknowledgements
 
-- Thanks to Mrwhitehat1 for the foundational work and inspiration.
+- Thanks to Netsecprajwal for the foundational work and inspiration.
