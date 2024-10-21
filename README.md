@@ -43,7 +43,7 @@ This project is intended for educational use only. Unauthorized use for maliciou
 
 ## License
 
-This project is based on the work by Mrwhitehat1 available at [https://github.com/Mrwhitehat1](https://github.com/Mrwhitehat1). Please refer to the original repository for licensing details.
+This project is based on the work by Mrwhitehat1 available at [https://github.com/NetSecPrajwal](https://github.com/NetSecPrajwal). Please refer to the original repository for licensing details.
 
 ## Author
 
